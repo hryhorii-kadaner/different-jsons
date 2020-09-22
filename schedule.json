@@ -1,5 +1,12 @@
-[{
-    "author": "Jhonathan Doe",
-    "date": "11.10.2020",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt totam perferendis corporis ut esse enim, velit inventore quod ullam libero vel laboriosam quidem expedita tenetur impedit, dolore quos laudantium magni?"
-}]
+[
+    {
+        "author": "Jhonathan Doe",
+        "date": "11.10.2020",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt totam perferendis corporis ut esse enim, velit inventore quod ullam libero vel laboriosam quidem expedita tenetur impedit, dolore quos laudantium magni?"
+    },
+    {
+        "author": "June Berger",
+        "date": "12.10.2020",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt totam perferendis corporis ut esse enim, velit inventore quod ullam libero vel laboriosam quidem expedita tenetur impedit, dolore quos laudantium magni?"
+    }
+]
