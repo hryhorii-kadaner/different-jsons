@@ -1,5 +1,6 @@
 [{
-        "time": [
+    "day":"Monday",    
+    "time": [
             "9:00-10:20",
             "10:30-12:00",
             "12:10-13:40"
@@ -22,6 +23,7 @@
         "chill": "false"
     },
     {
+        "day":"Tuesday",
         "time": [
             "9:00-10:20",
             "10:30-12:00",
@@ -49,6 +51,7 @@
         "chill": "false"
     },
     {
+        "day":"Wednesday",
         "time": [
             "9:00-10:20",
             "10:30-12:00",
@@ -76,6 +79,7 @@
         "chill": "false"
     },
     {
+        "day":"Thursday",
         "time": [
             "9:00-10:20",
             "10:30-12:00",
@@ -102,12 +106,15 @@
         "chill": "false"
     },
     {
+        "day":"Friday",
         "chill": "true"
     },
     {
+        "day":"Saturday",
         "chill": "true"
     },
     {
+        "day":"Sunday",
         "chill": "true"
     }
 ]
