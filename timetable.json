@@ -16,6 +16,11 @@
             "Баран С.В.",
             "Баран С.В."
         ],
+        "teachersImages":[
+            "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
+            "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
+            "https://www.duet.edu.ua/storage/images/Baran-SV.jpg"
+        ],
         "rooms": [
             "201",
             "201",
@@ -43,6 +48,12 @@
             "Зеленський О.С.",
             "Волинець С.В.",
             "Орлова О.І"
+        ],
+        "teachersImages":[
+            "https://www.duet.edu.ua/storage/images/Lisenko-VS.jpg",
+            "https://www.duet.edu.ua/storage/images/Zelenskij-OS.jpg",
+            "https://www.duet.edu.ua/storage/images/1a6b802a4ebbd4dcdba362ebf642ed32.jpg",
+            "https://www.duet.edu.ua/storage/images/1a6b802a4ebbd4dcdba362ebf642ed32.jpg"
         ],
         "rooms": [
             "206",
@@ -73,6 +84,12 @@
             "Ходукін М.А.",
             "Ходукін М.А."
         ],
+        "teachersImages":[
+            "https://www.duet.edu.ua/storage/images/b14dd0a6d211ff36d52e0f7756fa2e37.jpg",
+            "https://www.duet.edu.ua/storage/images/b14dd0a6d211ff36d52e0f7756fa2e37.jpg",
+            "https://www.duet.edu.ua/storage/images/Hodukin-MA.jpg",
+            "https://www.duet.edu.ua/storage/images/Hodukin-MA.jpg"
+        ],
         "rooms": [
             "232",
             "232",
@@ -101,6 +118,12 @@
             "Цимбал Ж.В.",
             "Цимбал Ж.В.",
             "Дронникова Т.А."
+        ],
+        "teachersImages":[
+            "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
+            "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg",
+            "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg",
+            "https://www.duet.edu.ua/storage/images/Dronnikova.jpg"
         ],
         "rooms": [
             "201a",
