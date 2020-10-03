@@ -1,5 +1,4 @@
-[
-  {
+[{
     "day": "Monday",
     "date": "28 сент. 2020",
     "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50"],
@@ -20,71 +19,53 @@
   {
     "day": "Tuesday",
     "date": "29 сент. 2020",
-    "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50", "14:00-15:20"],
+    "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50"],
     "namesOfLessons": [
       "Об'єктно-орієнтоване-програмування",
       "Об'єктно-орієнтоване-програмування",
-      "Філософія",
       "Філософія"
     ],
-    "teachers": [
-      "Лисенко В.С.",
-      "Зеленський О.С.",
-      "Волинець С.В.",
-      "Орлова О.І"
-    ],
+    "teachers": ["Лисенко В.С.", "Зеленський О.С.", "Волинець С.В."],
     "teachersImages": [
       "https://www.duet.edu.ua/storage/images/Lisenko-VS.jpg",
       "https://www.duet.edu.ua/storage/images/Zelenskij-OS.jpg",
-      "https://www.duet.edu.ua/storage/images/1a6b802a4ebbd4dcdba362ebf642ed32.jpg",
       "https://www.duet.edu.ua/storage/images/1a6b802a4ebbd4dcdba362ebf642ed32.jpg"
     ],
-    "rooms": ["206", "206", "232", "232"],
+    "rooms": ["206", "206", "232"],
     "chill": "false"
   },
   {
     "day": "Wednesday",
     "date": "30 сент. 2020",
-    "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50", "14:00-15:20"],
+    "time": ["10:30-11:50", "12:30-13:50"],
     "namesOfLessons": [
       "Іноземна мова",
-      "Іноземна мова",
-      "Архітектура компютера та вбудовані мікропроцесорні системи (лаб.)",
-      "Архітектура компютера та вбудовані мікропроцесорні системи (лекція)"
+      "Архітектура компютера та вбудовані мікропроцесорні системи"
     ],
-    "teachers": [
-      "Базаренко І.А.",
-      "Базаренко І.А.",
-      "Ходукін М.А.",
-      "Ходукін М.А."
-    ],
+    "teachers": ["Базаренко І.А.", "Ходукін М.А."],
     "teachersImages": [
       "https://www.duet.edu.ua/storage/images/b14dd0a6d211ff36d52e0f7756fa2e37.jpg",
-      "https://www.duet.edu.ua/storage/images/b14dd0a6d211ff36d52e0f7756fa2e37.jpg",
-      "https://www.duet.edu.ua/storage/images/Hodukin-MA.jpg",
       "https://www.duet.edu.ua/storage/images/Hodukin-MA.jpg"
     ],
-    "rooms": ["232", "232", "201", "201"],
+    "rooms": ["232", "212"],
     "chill": "false"
   },
   {
     "day": "Thursday",
     "date": "1 окт. 2020",
-    "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50", "14:00-15:20"],
+    "time": ["09:00-10:20", "10:30-11:50", "12:30-13:50"],
     "namesOfLessons": [
       "Алгоритми та структури даних",
-      "Об'єктно-орієнтоване програмування на Python",
-      "Об'єктно-орієнтоване програмування на Python",
-      "Фізвиховання"
+      "Алгоритми та структури даних",
+      "Об'єктно-орієнтоване програмування на Python"
     ],
-    "teachers": ["Баран С.В.", "Цимбал Ж.В.", "Цимбал Ж.В.", "Дронникова Т.А."],
+    "teachers": ["Баран С.В.", "Баран С.В.", "Цимбал Ж.В."],
     "teachersImages": [
       "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
-      "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg",
-      "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg",
-      "https://www.duet.edu.ua/storage/images/Dronnikova.jpg"
+      "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
+      "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg"
     ],
-    "rooms": ["201a", "201", "201", "118"],
+    "rooms": ["201a", "201a", "201"],
     "chill": "false"
   },
   {
