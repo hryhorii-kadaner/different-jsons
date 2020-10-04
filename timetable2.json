@@ -1,8 +1,4 @@
-[{
-    "day": "Sunday",
-    "date": "11 окт. 2020",
-    "chill": "true"
-  },
+[
   {
     "day": "Monday",
     "date": "5 окт. 2020",
@@ -74,6 +70,11 @@
   {
     "day": "Saturday",
     "date": "10 окт. 2020",
+    "chill": "true"
+  },
+  {
+    "day": "Sunday",
+    "date": "11 окт. 2020",
     "chill": "true"
   }
 ]
