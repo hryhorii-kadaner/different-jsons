@@ -14,7 +14,7 @@
       "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
       "https://www.duet.edu.ua/storage/images/Baran-SV.jpg"
     ],
-    "rooms": ["201", "201", "201"],
+    "rooms": ["Аудиторія: 201", "Аудиторія: 201", "Аудиторія: 201"],
     "chill": "false"
   },
   {
@@ -32,7 +32,7 @@
       "https://www.duet.edu.ua/storage/images/Zelenskij-OS.jpg",
       "https://www.duet.edu.ua/storage/images/1a6b802a4ebbd4dcdba362ebf642ed32.jpg"
     ],
-    "rooms": ["206", "206", "232"],
+    "rooms": ["Аудиторія: 206", "Аудиторія: 206", "Аудиторія: 232"],
     "chill": "false"
   },
   {
@@ -48,7 +48,7 @@
       "https://www.duet.edu.ua/storage/images/b14dd0a6d211ff36d52e0f7756fa2e37.jpg",
       "https://www.duet.edu.ua/storage/images/Hodukin-MA.jpg"
     ],
-    "rooms": ["232", "212"],
+    "rooms": ["Аудиторія: 232", "Аудиторія: 212"],
     "chill": "false"
   },
   {
@@ -66,7 +66,7 @@
       "https://www.duet.edu.ua/storage/images/Baran-SV.jpg",
       "https://www.duet.edu.ua/storage/images/TSimbal-ZHV.jpg"
     ],
-    "rooms": ["201a", "201a", "201"],
+    "rooms": ["Аудиторія: 201a", "Аудиторія: 201a", "Аудиторія: 201"],
     "chill": "false"
   },
   {
