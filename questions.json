@@ -77,6 +77,86 @@
     "answers":["/*     comment     */","<!--   comment   -->","<--    comment    -->","//     comment","#      comment"],
     "right":"b",
     "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "11",
+    "question":"Який з атрибут не є глобальним?",
+    "answers":["style","id","class","cite","title"],
+    "right":"d",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "12",
+    "question":"Який з атрибут є глобальним?",
+    "answers":["controls","allowfullscreen","class","cite","frameborder"],
+    "right":"c",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "13",
+    "question":"Який с поданих атрибутів не має тег <meta>?",
+    "answers":["charset","allowfullscreen","http-equiv","content","name"],
+    "right":"b",
+    "amount": "1",
+    "theEnd":"false"
+  },
+  {
+    "number": "14",
+    "question":"Який селектор вибере усі елементи на сторінці?",
+    "answers":["<a>","*","#","[attr=”value”]","."],
+    "right":"b",
+    "amount": "1",
+    "theEnd":"false"
+  },
+  {
+    "number": "15",
+    "question":"Який селектор вибере усі посилання на сторінці?",
+    "answers":["<a>","*","#","[attr=”value”]","."],
+    "right":"a",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "16",
+    "question":"Як обрати усі теги <p> з тегів <div>?",
+    "answers":["div p","div, p","div > p","div ~ p","div + p"],
+    "right":"a",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "17",
+    "question":"Як обрати усі теги <p> на першому рівні вкладеності з тегів <div>?",
+    "answers":["div p","div, p","div > p","div ~ p","div + p"],
+    "right":"c",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "18",
+    "question":"Як обрати перший тег <p> який йде після тега <div>?",
+    "answers":["div p","div, p","div > p","div ~ p","div + p"],
+    "right":"e",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "19",
+    "question":"Як обрати усі теги <p> які йдуть після тегів <div>?",
+    "answers":["div p","div, p","div > p","div ~ p","div + p"],
+    "right":"d",
+    "amount": "0.5",
+    "theEnd":"false"
+  },
+  {
+    "number": "20",
+    "question":"Який з наведених псевдокласів не існує:",
+    "answers":["focus","visited","hover","allowfullscreen","first-child"],
+    "right":"d",
+    "amount": "1",
     "theEnd":"true"
   }
 ]
