@@ -4,69 +4,79 @@
   "question":"Який HTML5 тег задає навігацію на веб-сайті?",
   "answers":["<h2>","<nav>","<span>","<li>","<kbd>"],
   "right":"b",
-  "amount": "0.5"
+  "amount": "0.5",
+  "theEnd":"false"
   },
   {
     "number": "2",
     "question":"Знайдіть блоковий тег",
     "answers":["<div>","<span>","<a>","<audio>","<small>"],
     "right":"a",
-    "amount": "0.5"
+    "amount": "0.5",
+    "theEnd":"false"
   },
   {
     "number": "3",
     "question":"Знайдіть рядковий тег",
     "answers":["<div>","<ul>","<section>","<article>","<span>"],
     "right":"e",
-    "amount": "0.5"
+    "amount": "0.5",
+    "theEnd":"false"
   },
   {
     "number": "4",
     "question":"Щоб вказати мову, якою написаний текст всередині поточного документу <html> потрібно застосувати атрибут:",
     "answers":["name=””","language=””","lang=””","charset=””","content=””"],
     "right":"c",
-    "amount": "1"
+    "amount": "1",
+    "theEnd":"false"
   },
   {
     "number": "5",
     "question":"Який тег визначає заголовок документа?",
     "answers":["<div> Title </div>","<head> Title </head>","<h1> Title </h1>","<title>Title</title>","<heading> Title </heading>"],
     "right":"d",
-    "amount": "0.5"
+    "amount": "0.5",
+    "theEnd":"false"
   },
   {
     "number": "6",
     "question":"Як рекомендується підключати стилі до документа?",
     "answers":["<body bgcolor='#ffc107'></body>","<p align='left'>Some text</p>","<style> @import url('style/header.css'); </style>","<style> h1 {font-size:25px;} </style>","<link rel='stylesheet' href='style.css'>"],
     "right":"e",
-    "amount": "1"
+    "amount": "1",
+    "theEnd":"false"
   },
   {
     "number": "7",
     "question":"Який з елементів є блочно-рядковим?",
     "answers":["<video></video>","<div></div>","<ol></ol>","<article></article>","<section></section>"],
     "right":"a",
-    "amount": "1"
+    "amount": "1",
+    "theEnd":"false"
   },
   {
     "number": "8",
     "question":"Виберіть рядок містить застарілий тег:",
     "answers":["<section>, <main>, <div>","<article>, <aside>, <nav>","<div>, <span>, <frame>","<p>, <label>, <div>","<u>, <ul>, <i>"],
     "right":"c",
-    "amount": "1"
+    "amount": "1",
+    "theEnd":"false"
   },
   {
     "number": "9",
     "question":"Виберіть вірну дату релізу HTML5 стандарту:",
     "answers":["28 грудня 2014","28 жовтня 2014","28 вересня 2014","28 лютого 2014","28 березня 2014"],
     "right":"b",
-    "amount": "1"
+    "amount": "1",
+    "theEnd":"false"
   },
   {
     "number": "10",
     "question":"Як позначаються коментарі в HTML?",
     "answers":["/*     comment     */","<!--   comment   -->","<--    comment    -->","//     comment","#      comment"],
     "right":"b",
-    "amount": "0.5"
+    "amount": "0.5",
+    "theEnd":"true"
   }
 ]
